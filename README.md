@@ -1,4 +1,4 @@
-# Employee Tracker ![MIT-license](./src/license/license-MIT-brightgreen.svg)
+# E-Commerce Back End ![MIT-license](./src/license/license-MIT-brightgreen.svg)
 
 ## Description
 This application is an e-commerce back end that handles HTTP requests through a RESTful API by using Express for a Node server, MySQL for a database, and Sequelize for an object relational mapper. HTTP requests were tested using Insomnia Core.
